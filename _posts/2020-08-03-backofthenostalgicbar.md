@@ -7,10 +7,10 @@ In the back of the nostalgic bar \\
 Through the veil of purple haze \\
 She would wait as if in a trance \\
 She would smile, of course \\
-Talking about words in wrong places \\
-The sirens going past outside \\
+Talking about words in the wrong places \\
+While the sirens going past outside \\
 In shy moonlight --- \\
-Is buried along the drained rain \\
+Are buried along the drained rain \\
 What could she ever hope to gain? \\
 
 Though most would admit it was romantic \\
