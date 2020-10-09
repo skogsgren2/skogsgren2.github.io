@@ -18,7 +18,7 @@ For there is no redemption in regretful screams \\
 The wave always returns to shore, anyhow \\
 
 Some speak of a highway, some speak of a boat \\
-Some tell fondly tell stories of heroes with pointed swords \\
+Some fondly tell stories of heroes with pointed swords \\
 But what they really want to find is that everlasting home \\
 Where fears are accepted, wishes non-existent \\
 The Madonna & Elvis curl up together \\
