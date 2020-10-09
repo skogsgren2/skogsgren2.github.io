@@ -1,8 +1,8 @@
 # Setup
 title: Juliet's Tomb
-url: 
+url: julietstomb.xyz
 paginate: 1
-baseurl: ""
+baseurl: "julietstomb.xyz"
 permalink: pretty
 
 # Gems
