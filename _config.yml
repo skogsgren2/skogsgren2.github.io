@@ -2,7 +2,7 @@
 title: Juliet's Tomb
 url: julietstomb.xyz
 paginate: 1
-baseurl: "julietstomb.xyz"
+baseurl: ""
 permalink: pretty
 
 # Gems
