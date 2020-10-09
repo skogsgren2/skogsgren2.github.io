@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Architectually speaking
+title: Architecturally speaking
 ---
 
 Gazing out over the plain where his towers once stood \\
