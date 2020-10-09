@@ -1,3 +1,8 @@
+---
+layout: post
+title: Architectually speaking
+---
+
 Gazing out over the plain where his towers once stood \\
 Architecturally speaking, should have changed the world \\
 What value has a dream that he never even believed? \\
