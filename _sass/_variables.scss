@@ -9,8 +9,8 @@
   --gray-700: #ffffff;
   --gray-800: #343a40;
   --gray-900: #212529;
-  --dark-poole-001: #000000;
-  --dark-poole-002: #ffffff;
+  --dark-poole-001: black;
+  --dark-poole-002: white;
   --dark-poole-link-color: rgba(255, 255, 255, 0.75);
   --dark-poole-link-hover: #fff;
 
@@ -36,12 +36,12 @@
   --body-font-size: 12px;
   --body-line-height: 1.5;
   --body-color: white;
-  --body-bg: white;
+  --body-bg: black;
 
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
 
-  --heading-color: var(--gray-900);
+  --heading-color: white;
 
   --border-color: var(--gray-300);
   --border-radius: 0.25rem;
@@ -58,10 +58,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: var(--gray-300);
-    --body-bg: var(--gray-800);
+    --body-color: white;
+    --body-bg: black;
 
-    --heading-color: #fff;
+    --heading-color: white;
 
     --link-color: var(--blue-300);
     --link-hover-color: var(--blue-400);
@@ -75,7 +75,7 @@
 // Dark Poole theme
 [data-theme="dark-poole"] {
   --body-color: white;
-  --body-bg: var(--dark-poole-001);
+  --body-bg: black;
   --heading-color: white;
   --link-color: var(--dark-poole-link-color);
   --link-hover-color: var(--dark-poole-link-hover);
