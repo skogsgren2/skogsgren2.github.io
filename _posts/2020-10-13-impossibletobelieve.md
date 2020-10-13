@@ -15,21 +15,24 @@ That were supposed to decide \\
 The old retiree down the road \\
 As if you had to stop yourself \\
 From getting further ahead \\
+Turn into a painting best kept hidden \\
+
 The orphan emerging from emerging doorways \\
 Quotes Ginsberg & Kerouac \\
 In profound new ways \\
 
 People come and go through various doors \\
-Even certain versions of Michelangelo \\
+As do certain versions of Michelangelo \\
 His eternal women too \\
-Get shot in dirty alleyways \\
+End up getting shot in dirty alleyways \\
 For indicating their anger \\
 In ways other than blood \\
-For not sacrificing their children \\
+End up sacrificing their children \\
 By the sharpened silver needle \\
-Through these various doors \\
+And regretting it as it blows \\
+Through these various doors, \\
 The cold wind blows from across \\
-Tin roofs in distant nights \\
+Distant nights, bouncing on tin roofs\\
 
 To the ones who disappear below ground \\
 The smoothed trip means little \\
