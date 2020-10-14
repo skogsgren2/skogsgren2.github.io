@@ -6,15 +6,15 @@ title: Impossible to believe sometimes
 Impossible to believe sometimes \\
 As the cold wind blows over greedy roofs \\
 As the man in thin-rimmed spectacles \\
-Decide another man's fate by sharpened crayon \\
+Decides another man's fate by sharpened crayon \\
 Impossible to believe - \\
-That dreams aren't bred like eggs \\
+That dreams aren't farmed like eggs \\
 
 And all of those early memories \\
 That were supposed to decide \\
 The old retiree down the road \\
-As if you had to stop yourself \\
-From getting further ahead \\
+(As if you had to stop yourself \\
+From getting further ahead) \\
 Turn into a painting best kept hidden \\
 
 The orphan emerging from emerging doorways \\
