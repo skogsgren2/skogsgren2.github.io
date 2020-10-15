@@ -18,7 +18,7 @@ Her voice is sweet and low \\
 Her smell is roses and newly fallen oak \\
 Her warmth crackles in its intrinsic glow \\
 I like to think that she's delicate \\
-But I mistake her from my reflection \\
+But I mistake her for my reflection \\
 That somehow, always, takes her place \\
 So we whisper, so we blink, so we breathe \\
 
