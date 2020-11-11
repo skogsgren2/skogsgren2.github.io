@@ -16,3 +16,5 @@ Some tears escaped in the first rays of that cold October sun.
 ---
 
 Years later, as the ravens fly in their usual pattern forevermore. As the newspaper comes rapping periodically at their front door. As the kids skid on make-believe skates on the frozen lake in November. The sun escapes from gray clouds and even longer periods of hiding. There is a moment of hope, there are the words to fill every kind of void.
+
+His eyes were blue, and his kisses were too.
