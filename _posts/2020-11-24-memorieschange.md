@@ -3,7 +3,7 @@ title: Memories change
 layout: post
 ---
 
-Memories change as people whistle different tunes: as the neighbor goes out for a walk, as the first snow in a decade falls in heavy snowflakes on tin roofs, or any other scenario when you can imagine that familiar breeze blow. She wanders by in wonder by the bar with her gray hair cut short. An icy wind blows without bothering her eyes nor nose. The air is free from any smell, except for that familiar faint burning. Even in the first greeting there is sadness now. 
+Memories change as people whistle different tunes: as the neighbor goes out for a walk, as the first snow in a decade falls in heavy snowflakes on tin roofs, or any other scenario when you can imagine that familiar breeze blow. She walks past the bar with her gray hair cut short. An icy wind blows without bothering her eyes nor nose. The air is free from any smell, except for that familiar faint burning. Even in the first greeting there is sadness now. 
 
 She could return to the land of the fairy. Where gnomes perform parlor tricks by folding leftover napkins, and ducks play chess with their beaks against beavers with their callous-filled elbows. Where night is day and the sun only rises for those with ashen skin. While her parents might hug her when she arrives, it won't be the same.
 
