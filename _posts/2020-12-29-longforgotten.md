@@ -23,7 +23,7 @@ While I'm still alone and I keep calling \
 Nor tears, or fears flow toward you \
 
 In that land on which you dwell, \
-> (Pencil high in your hand) \
+*(Pencil high in your hand)* \
 Call me dead before I undress \
 I don't know what you understand, nor do I want to \
 I want to be loved, unlike you \
