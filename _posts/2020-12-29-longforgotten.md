@@ -27,8 +27,8 @@ In that land on which you dwell, \
 Call me dead before I undress \
 I don't know what you understand, nor do I want to \
 I want to be loved, unlike you \
-Shrines are there for faith and not for fame \ 
+Shrines are there for faith and not for fame \
 The rivers flows for you, but only in blood \
-While I walk up to you, still, \ 
+While I walk up to you, still, \
 I only walk up to you in sad relief \
 As it pours down my neck, cold drops and fever \
