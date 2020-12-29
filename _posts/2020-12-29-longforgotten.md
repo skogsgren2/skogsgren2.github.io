@@ -13,8 +13,8 @@ Yet, yet I call for the truth \
 From that broken wing, \
 Far above that long-forgotten heart \
 
-In the spring her name echoes, \
-That fatal name of violent water\ 
+In the spring her name echoes,\
+That fatal name of violent water \
 Dripping from neglected pipes, \
 From that foreign touch \
 By the early rays \
