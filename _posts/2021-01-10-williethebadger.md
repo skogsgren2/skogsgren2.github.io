@@ -33,5 +33,5 @@ To cash that obsolete check \
 My chicken bobs his head to T.S. Eliot \
 As he gives the posthumuous Nobel prize \
 To Willie the badger \
-For describing the human condition \ 
+For describing the human condition
 & how it feels as you bob your neck. \
