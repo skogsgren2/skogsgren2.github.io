@@ -4,24 +4,24 @@ layout: post
 ---
 
 The days might change, \
-And the women might nod \
-The bird spreads its wings \
+And the women might nod too \
+The bird will spread its wings \
 To the summer too, with its warmth \
 
 While a celebration is beyond any communication \
 It must be, as the price of the bar was set \
 Repaid in the rhythm of the night \
-The madonna struggled to her feet \
+The madonna struggled to her feet again \
 
 This circle of myself, reflecting from dawn \
-TO twilight in protected, empty rooms \
+To twilight in protected, empty rooms \
 I hear her laughing in the story above \
 She's taken, by the inevitability of the fall \
 
 In the future memory of falsely drawn idols \
 I start between the ocean of sword \
-And that of the sinful blood \
-The trumpets blow forcefully, destiny is eventually met \
+And that of the sinful blood --- \
+The trumpets blow forcefully, every loss must be my gain \
 
 When I heard you say those words \
 I thought part of me understood \
