@@ -8,9 +8,9 @@ And the women might nod too \
 The bird will spread its wings \
 To the summer too, with its warmth \
 
-While a celebration is beyond any communication \
-It must be, as the price of the bar was set \
-Repaid in the rhythm of the night \
+A celebration is beyond any communication \
+And it must be, following the bar that was set \
+To be repaid in the rhythm of the night \
 The madonna struggled to her feet again \
 
 This circle of myself, reflecting from dawn \
