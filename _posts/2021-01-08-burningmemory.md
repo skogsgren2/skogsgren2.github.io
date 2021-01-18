@@ -6,7 +6,7 @@ layout: post
 She told him, once, that his reflection over the water \
 Stood ample over her in every situation: \
 Alone, in fear, in elation \
-Nonetheless in ever case comfort without support \
+Nonetheless in every case comfort without support \
 But that burning memory \
 
 A bird flying far above \
