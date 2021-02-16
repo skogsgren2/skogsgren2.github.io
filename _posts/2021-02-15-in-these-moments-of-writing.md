@@ -90,11 +90,11 @@ Yet undeniably certain in a way \
 In regards to the moon coming in from the window \
 
 Later, leaning against wall on floor \
-Quiet dance on who's turn to approach \
-Us who occupy life's various corners \
+Quiet dancing around who's turn it was to approach \
+--- Us who occupy life's various corners \
 We who find the twisted apple branch \
-Among angels roaming summery avenues alone \
-Still this is how I think when time stands still \
+Among angels roaming summery avenues alone --- \
+This remains how I think when time stands still \
 As she lowers herself down to me on the floor \
 
 Suddenly I am awakened by a bang \
