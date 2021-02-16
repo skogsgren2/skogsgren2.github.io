@@ -3,6 +3,8 @@ title: In these moments of writing
 layout: post
 ---
 
+**I**
+
 Rowdy evening canceled out \
 By empty smells pouring from the window: \
 She ties up her heart about his feet, \
@@ -27,7 +29,7 @@ Wrote of memories as the dead \
 The sparrows hardly understood, \
 Sitting along his bed's edge. \
 
----
+**II**
 
 Like so the memory comes and goes \
 Through distant possibilities \
@@ -61,10 +63,10 @@ But shortly after you die --- \
 The silence in heaven does not abide, it shouts. \
 I observe you, I am obsessed with myself \
 
----
+**III**
 
-Now I stand alone, however \
-Only by my weathered name, \
+Now I stand alone however, \
+Held only by my weathered name, \
 Recognizing that the weight we carry; \
 Empty dreams, empty memories \
 And empty picture frames; \
@@ -103,4 +105,4 @@ Yet still a face, a smile, nothing more remains \
 But that is not true, and I know so: \
 It is everything: a face, a smile --- and nothing more. \
 
-(In these moments of writing, have you forgotten? When I think back on the moment as I sit here with my pen, will they be dreams or will they be real?)
+(In these moments of writing, have you forgotten? When I think back on the moment as I now sit here with my pen, will they be dreams or will they be real?)
