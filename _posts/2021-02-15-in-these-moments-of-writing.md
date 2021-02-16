@@ -31,20 +31,12 @@ Sitting along his bed's edge. \
 
 **II**
 
-Like so the memory comes and goes \
-Through distant possibilities \
-Through close-by fears \
-Through cold-air nights \
-Through warm & sunny days \
-Through them all heavy smoke & beer \
-Like so the memory comes and goes \
-
 Sometimes you have reminiscence \
 To those thoughts from dark crevices \
 Who can ever forget those nocturnal smells? \
-Or those cries of hysteria pouring \
+Or those cries of hysteria pounding \
 From those booths of damp souls \
-Sway in the wind to obtain the key \
+You sway in the wind to obtain the key \
 For an evening of aimless dreaming \
 
 In the depths of a bus terminal \
@@ -54,6 +46,14 @@ In the punch-holes of childhood homes \
 Among all the wooden toys --- \
 And sounds of screaming \
 That part of life is lost, forever.
+
+Like so the memory comes and goes \
+Through distant possibilities \
+Through close-by fears \
+Through cold-air nights \
+Through warm & sunny days \
+Through them all heavy smoke & beer \
+Like so the memory comes and goes \
 
 And then under candlelight \
 Rambling of where she died and how \
@@ -105,4 +105,4 @@ Yet still a face, a smile, nothing more remains \
 But that is not true, and I know so: \
 It is everything: a face, a smile --- and nothing more. \
 
-(In these moments of writing, have you forgotten? When I think back on the moment as I now sit here with my pen, will they be dreams or will they be real?)
+(In these moments of writing, have you forgotten? When I think back on the moment as I sit here with my pen, will they be dreams or will they be real?)
