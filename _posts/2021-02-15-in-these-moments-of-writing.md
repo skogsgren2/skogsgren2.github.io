@@ -42,17 +42,17 @@ For an evening of aimless dreaming \
 In the depths of a bus terminal \
 Among the maniacs tipping their hats \
 To beggars holding out their hands \
-In the punch-holes of childhood homes \
+And the punch-holes of childhood homes \
 Among all the wooden toys --- \
-And sounds of screaming \
-That part of life is lost, forever.
+To the sounds of screaming \
+Find that part of life lost, forever.
 
 Like so the memory comes and goes \
 Through distant possibilities \
 Through close-by fears \
 Through cold-air nights \
 Through warm & sunny days \
-Through them all heavy smoke & beer \
+Through them all a haze of smoke & beer \
 Like so the memory comes and goes \
 
 And then under candlelight \
@@ -77,8 +77,8 @@ For who can deny that waiting? \
 It will return, no matter how ill at ease \
 You may to yourself write a paper \
 About all the masquerades \
-Still it will all fade, like fate, like name \
-In one look from across the room \
+Hear the distant drum calling \
+From one hopeful look from across the room \
 The world revolves around such moments \
 
 I wiped my mouth from some suds \
