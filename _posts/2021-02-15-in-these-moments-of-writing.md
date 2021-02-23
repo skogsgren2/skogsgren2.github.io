@@ -98,11 +98,11 @@ This remains how I think when time stands still \
 As she lowers herself down to me on the floor \
 
 Suddenly I am awakened by a bang \
-And all I knew instantly withers away, \
-The ultimate secret of the universe \
-And so I continue on with my day, \
+And the ultimate secret withers away \
+And so I continue on with that day, \
+I'm tired of wondering what it is, still I persist \
 Yet still a face, a smile, nothing more remains \
-But that is not true, and I know so: \
+But that's not really true, and I know so: \
 It is everything: a face, a smile --- and nothing more. \
 
 (In these moments of writing, have you forgotten? When I think back on the moment as I sit here with my pen, will they be dreams or will they be real?)
