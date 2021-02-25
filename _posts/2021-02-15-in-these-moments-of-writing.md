@@ -129,7 +129,7 @@ Could it be that this is not this world, \
 But the next one --- where we are not lost, but found \
 I go on in worn-out shoes, through undulating waves \
 Rushing to eroding, salty shores \
-And decide that the wisdom comes in the stars above \
+Life is after all but an additional story\
 
 ---
 
