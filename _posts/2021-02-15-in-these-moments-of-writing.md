@@ -121,7 +121,7 @@ And the politician with glassy eyes, \
 The worlds assortment of hearts go on beating \
 Through these cycles of seasons, \
 Of different temperatures and rebirths \
-Ravens, like phoenixes, sometimes burn
+Alone, together, it wont matter anyhow.
 
 So, where is this life that we are not living? \
 Where are the hearts that burn, burn, burn? \
@@ -129,7 +129,7 @@ Could it be that this is not this world, \
 But the next one --- where we are not lost, but found \
 I go on in worn-out shoes, through undulating waves \
 Rushing to eroding, salty shores \
-Life is after all but an additional story\
+Life is, afterall, just another story\
 
 ---
 
