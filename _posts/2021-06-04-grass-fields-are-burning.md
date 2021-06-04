@@ -13,12 +13,12 @@ All of this in the space of a moment \
 That reminds you of how much you've really lost \
 
 And most people are nothing but reflections \
-Of the mirror they bough at the antique shop long ago \
-It hangs over the door \
+Of the mirror they bought at the antique shop long ago \
+It hangs over their door \
 With a black frame \
-And crackly, bubbly surface \
-With nothing in it. But storm clouds \
-If you squint towards the background \
+And crackly, shiny surface \
+With nothing in it but storm clouds \
+If you squint towards the backdrop. \
 
 The old grass fields are burning \
 The summer begins to come by for afternoon tea & biscuits \
