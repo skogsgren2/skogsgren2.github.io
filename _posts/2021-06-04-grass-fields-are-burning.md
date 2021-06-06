@@ -10,15 +10,19 @@ He watches, quietly, most reflectively \
 There's a most interesting turn to his step \
 To the way he thinks before he moves. \
 All of this in the space of a moment \
-That reminds you of how much you've really lost \
+That reminds you of how much you've really lost 
 
-And most people are nothing but reflections \
-Of the mirror they bought at the antique shop long ago \
+Most people are nothing but reflections \
+In the mirror they bought long ago at the antique shop \
+Around the previous corner. \
 It hangs over their door \
 With a black frame \
 And crackly, shiny surface \
 With nothing in it but storm clouds \
-If you squint towards the backdrop. \
+If you squint towards the backdrop.
+I have gazed into the abyss, \
+But I set sail anyways --- \
+Toward the mountains forming a gate in the background.
 
 The old grass fields are burning \
 The summer begins to come by for afternoon tea & biscuits \
