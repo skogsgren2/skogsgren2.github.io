@@ -11,7 +11,7 @@ She tied up her heart about his feet, \
 Those dirty scraps and so full of fears \
 She grabbed his face between her hands \
 And echoed the notes of time \
-That resumes, after an ocean of waiting
+That resumes, after an ocean of waiting.
 
 But never would he wake up \
 He could only doze off \
@@ -32,20 +32,12 @@ Sitting along his bed's edge.
 **II**
 
 Sometimes you have reminiscence \
-To those thoughts from dark crevices \
+Of those thoughts from dark crevices \
 Who can ever forget those nocturnal smells? \
 Or those cries of hysteria pounding \
 From those booths of damp souls \
 You sway in the wind to obtain the key \
 For an evening of aimless dreaming
-
-In the depths of a bus terminal \
-Among the maniacs tipping their hats \
-To beggars holding out their hands, \
-And the punch-holes of childhood homes \
-Among all the wooden toys --- \
-The sounds of screaming \
-Turn that part of life to something lost, forever.
 
 For how softly we tread on alone \
 On that hard, crumbling stone \
@@ -53,7 +45,7 @@ When nothing to us is offered \
 Except the maps to the unknown \
 We whisper those dying breaths \
 In some inane, desperate attempt to say \
-That we never were afraid of those before us
+That we were never once afraid.
 
 Like so the memory comes and goes \
 Through distant possibilities \
@@ -104,32 +96,6 @@ We who find the twisted apple branch \
 Among angels roaming summery avenues alone --- \
 This remains how I think when time stands still, \
 As she lowers herself down to me on the floor.
-
-**IV**
-
-The timing is either just too late; \
-In the moments before facing death \
-Or in the fumes of a leaving train; \
-Or just at the start of something new, \
-And therefore --- for too many people --- \
-Is unreal, and unworthy of the claim to a name \
-We pray to be sure, yet secretly in vain we wait
-
-The raven soars both in the skies above \
-The hunter that refuses to understand \
-And the politician with glassy eyes, \
-The worlds assortment of hearts go on beating \
-Through these cycles of seasons, \
-Of different temperatures and rebirths \
-Alone, together, it wont matter anyhow.
-
-So, where is this life that we are not living? \
-Where are the hearts that burn, burn, burn? \
-Could it be that this is not this world, \
-But the next one --- where we are not lost, but found \
-I go on in worn-out shoes, through undulating waves \
-Rushing to eroding, salty shores \
-Life is, afterall, just another story\
 
 ---
 

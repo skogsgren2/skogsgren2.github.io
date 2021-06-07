@@ -19,7 +19,7 @@ It hangs over their door \
 With a black frame \
 And crackly, shiny surface \
 With nothing in it but storm clouds \
-If you squint towards the backdrop.
+If you squint towards the backdrop. \
 I have gazed into the abyss, \
 But I set sail anyways --- \
 Toward the mountains forming a gate in the background.
