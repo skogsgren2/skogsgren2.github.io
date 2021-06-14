@@ -4,20 +4,6 @@ title: Two Lovers
 layout: post
 ---
 
-<!--
-
-idea: What about a story about two loves that only can meet for one/two months every year; told from the perspective of one of them waiting for the other who's long overdue...
-
-# *The Union*
-
-> The Union is a government mandated mating season, and due to conveniences sake remaining with one mate throughout the seasons is highly unusual --- seeing as the fertility rates are so low. Having a partner for strict love purposes is even sometimes considered taboo to some, seeing as it lowers the chance of pregnancy, which in turn lowers the rate of humanity's survival. But then, what is that survival without love?
-
-# *Dystopia?*
-
-> The society Vincent is living in is a dystopia, there's no doubt about it; however must that mean that he hates every day of his existence? No. Because, he has Sara --- someone who through his own mental images of her inserts color into his life, even when existence might seem at its most bleak.
-
--->
-
 > This is the dead land \
 > This is cactus land \
 > Here the stone images \
