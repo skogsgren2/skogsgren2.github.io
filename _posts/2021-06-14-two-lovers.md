@@ -1,8 +1,24 @@
-
 ---
 title: Two Lovers
 layout: post
 ---
+
+> This is the dead land \
+> This is cactus land \
+> Here the stone images \
+> Are raised, here they receive \
+> The supplication of a dead man's hand \
+> Under the twinkle of a fading star.
+> 
+> Is it like this \
+> In death's other kingdom \
+> Waking alone \
+> At the hour when we are \
+> Trembling with tenderness \
+> Lips that would kiss \
+> Form prayers to broken stone. 
+> 
+> --- T.S. Eliot
 
 It is funny, sometimes, how time works. How it can speed up to a nearly imperceptible whirling of colors and laughter and beers and tobacco smoke and tea, only to grind down to a near halt in the moment after --- perhaps as you realize that those green eyes in front of you will go away, again, forever. Or so it would seem. And then it starts again. Everything is after all circular. Or so it seemed.
 
