@@ -4,23 +4,6 @@ title: Two Lovers
 layout: post
 ---
 
-> This is the dead land \
-> This is cactus land \
-> Here the stone images \
-> Are raised, here they receive \
-> The supplication of a dead man's hand \
-> Under the twinkle of a fading star.
-> 
-> Is it like this \
-> In death's other kingdom \
-> Waking alone \
-> At the hour when we are \
-> Trembling with tenderness \
-> Lips that would kiss \
-> Form prayers to broken stone. 
-> 
-> --- T.S. Eliot
-
 It is funny, sometimes, how time works. How it can speed up to a nearly imperceptible whirling of colors and laughter and beers and tobacco smoke and tea, only to grind down to a near halt in the moment after --- perhaps as you realize that those green eyes in front of you will go away, again, forever. Or so it would seem. And then it starts again. Everything is after all circular. Or so it seemed.
 
 Those were probably the thoughts running through Vincent's mind --- one can never really know anyways --- as he sat alone on the bench of the bus station with a dried stack of roses between his legs. They had now withered to a dismal version of purple, with a hint of dusty gray. Around him young people were scurrying about hurrying about their business. It was Union after all, and finding someone like Vincent sitting alone was an anomaly, but no one bothered nor paid him any mind nonetheless. It was Union after all.
