@@ -1,18 +1,14 @@
 :root {
-  --gray-000: #f1f3f5;
+  --gray-000: #f8f9fa;
   --gray-100: #f1f3f5;
   --gray-200: #e9ecef;
   --gray-300: #dee2e6;
   --gray-400: #ced4da;
   --gray-500: #adb5bd;
   --gray-600: #868e96;
-  --gray-700: #ffffff;
+  --gray-700: #495057;
   --gray-800: #343a40;
   --gray-900: #212529;
-  --dark-poole-001: black;
-  --dark-poole-002: white;
-  --dark-poole-link-color: rgba(255, 255, 255, 0.75);
-  --dark-poole-link-hover: #fff;
 
   --red: #fa5252;
   --pink: #e64980;
@@ -30,22 +26,21 @@
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
-  --body-font: 'Georgia', 'Linux Libertine', 'Linux Libertine O', 'Bitstream Vera Sans', sans-serif;
+  --body-font: Georgia, 'Linux Libertine', sans-serif;
   --body-font-size: 1rem;
   --body-line-height: 1.5;
-  --body-color: white;
-  --body-bg: black;
+  --body-color: var(--gray-700);
+  --body-bg: #fff;
 
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
 
-  --heading-color: white;
+  --heading-color: var(--gray-900);
 
   --border-color: var(--gray-300);
-  --border-radius: 0.25rem;
+  --border-radius: .25rem;
 
-  --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-    "Courier New", monospace;
+  --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --code-color: var(--grape);
   --code-bg: var(--gray-000);
 
@@ -56,28 +51,16 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: white;
-    --body-bg: black;
+    --body-color: var(--gray-300);
+    --body-bg: var(--gray-800);
 
-    --heading-color: white;
+    --heading-color: #fff;
 
     --link-color: var(--blue-300);
     --link-hover-color: var(--blue-400);
 
-    --border-color: rgba(255, 255, 255, 0.15);
+    --border-color: rgba(255,255,255,.15);
 
     --code-bg: var(--gray-900);
   }
-}
-
-// Dark Poole theme
-[data-theme="dark-poole"] {
-  --body-color: white;
-  --body-bg: black;
-  --heading-color: white;
-  --link-color: var(--dark-poole-link-color);
-  --link-hover-color: var(--dark-poole-link-hover);
-  --border-color: rgba(255, 255, 255, 0.15);
-  --code-bg: var(--gray-900);
-
 }
