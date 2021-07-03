@@ -61,10 +61,10 @@ And when the winds finally \
 Tell the story of sleep \
 Without a hint of cruel malintent \
 Find life doing what death does best, \
-Rest, which is itself a mighty test \
-Civilizations fell in its name \
-Relationships surely have dwelt \
-In its comfortable mist \
+Rest --- which is itself a mighty test \
+Civilizations have fallen in its name \
+And relationships surely have dwelt \
+In its comfortable nest. \
 All I know is that we sit \
 Overlooking the dark remnants \
 Sometime at midnight \
