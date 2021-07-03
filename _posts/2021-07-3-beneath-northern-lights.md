@@ -18,11 +18,11 @@ The nether valley beneath the moon \
 Where we came from, once. 
 
 And while it is tempting to comment \
-That our bread is moldy; \
+--- That our bread is moldy; \
 That our cheese has transformed \
 Into a feral nest of worms; \
-That our wine turned to vinegar; \
-But that would only tarnish this tender moment \
+That our wine turned to vinegar --- \
+It would only tarnish this tender moment \
 His skeleton is too brittle for the emotional shock, \
 Let alone his soul floating around \
 The nether valley beneath the moon, \
