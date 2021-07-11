@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Delilah
-  url: 
-  email: 
+  name: Gustaf Gren
+  url: gakusei.cyou
+  email: websites.gustaf@posteo.org
 
 # Custom vars
 version: 3.0.0
@@ -43,3 +43,5 @@ version: 3.0.0
 nav:
   - title: Archive
     url: /archive
+  - title: About
+    url: /about
