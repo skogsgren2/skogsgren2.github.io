@@ -16,9 +16,13 @@ p.pic {
 }
 </style>
 
-![me](profile.jpg)
+![](profile.jpg)
 
-This is simply a testing ground for my writing, my shoddy writing.
+### ...myself
+
+I like to write things. I *need* to write things. I figured that it would be a waste not to put it somewhere, so I dump mostly everything here. Be warned, however, there are spelling errors & bad grammar abound! Most of these are first drafts. Don't say that I didn't warn you.
+
+### Contact
 
 [`goodreads`](https://www.goodreads.com/user/show/50212535-gustaf) \
 [`e-mail`](mailto:websites.gustaf@posteo.org)
